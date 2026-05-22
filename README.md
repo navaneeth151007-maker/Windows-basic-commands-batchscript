@@ -23,43 +23,42 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
-
+![alt text](<OS 8.1.png>)
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
-
+![alt text](<OS 8.1-1.png>)
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
-
+![alt text](<OS 8.1-2.png>)
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
-
+![alt text](<OS 8.2-2.png>)
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
-
+![alt text](<OS 8.3.png>)
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
-
+![alt text](<OS 8.4.png>)
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
-
+![alt text](<OS 8.4-1.png>)
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
-
+![alt text](<OS 8.5.png>)
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
-
-## COMMAND AND OUTPUT
+![alt text](<OS 8.6.png>)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -69,7 +68,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-
+![alt text](<OS 8.7.png>)
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -84,16 +83,15 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+![alt text](<OS 8.8-2.png>)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
 
 
-
 ## OUTPUT
-
+![alt text](<OS 8.9.png>)
 
 
 
@@ -107,6 +105,7 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+![alt text](<OS 8.10.png>)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -116,7 +115,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
-
+![alt text](<OS 8.11.png>)
 
 
 # RESULT:
